@@ -20,5 +20,13 @@ Hello! I'm Houceine, a passionate web designer and developer dedicated to creati
 - **Client-Focused Approach** with personalized solutions and dedicated support
 - **Clean, Professional Designs** that reflect your brand's values
 
+## 🎯 Interactive Presentation
+Check out my **[professional presentation](./presentation/)** built with Reveal.js featuring:
+- 5+ comprehensive slides
+- Interactive navigation (horizontal & vertical)
+- Professional design with custom theme
+- Markdown formatting and images
+- Mobile-responsive layout
+
 ## Ready to Start Your Project?
 [Contact me](./contact) today for a free consultation and let's discuss how I can bring your vision to life! 
