@@ -2,7 +2,7 @@
 
 This is Houceine's Portfolio website for web design and development services, built using GitHub Pages and Jekyll.
 
-## 🌐 Live Site
+- Live Site
 [https://hsx07.github.io/Elhouceine-Portfolio/](https://hsx07.github.io/Elhouceine-Portfolio/)
 
 ## 📄 About
@@ -22,12 +22,6 @@ Houceine's Portfolio showcases web design and development services, past project
 - `portfolio.md` — Portfolio page
 - `contact.md` — Contact page
 
-## 🛠️ How to Use or Edit
-1. Fork or clone this repository.
-2. Edit the markdown files to update content.
-3. Push changes to the `main` branch.
-4. GitHub Pages will automatically update the live site.
 
----
 
-Feel free to use this template for your own portfolio!
+
