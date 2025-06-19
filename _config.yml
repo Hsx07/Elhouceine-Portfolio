@@ -8,10 +8,6 @@ header_pages:
   - portfolio.md
   - contact.md
 
-# Plugins
-plugins:
-  - jekyll-feed
-
 # Build settings
 markdown: kramdown
 highlighter: rouge
