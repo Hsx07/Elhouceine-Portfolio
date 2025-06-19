@@ -1,6 +1,9 @@
 theme: minima
 title: "Houceine's Portfolio"
 description: "Web Design Services Portfolio"
+url: "https://hsx07.github.io"
+baseurl: "/Elhouceine-Portfolio"
+
 header_pages:
   - index.md
   - about.md
@@ -11,6 +14,7 @@ header_pages:
 # Build settings
 markdown: kramdown
 highlighter: rouge
+permalink: pretty
 
 # Exclude from processing
 exclude:
