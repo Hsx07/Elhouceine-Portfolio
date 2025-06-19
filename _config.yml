@@ -6,4 +6,21 @@ header_pages:
   - about.md
   - services.md
   - portfolio.md
-  - contact.md 
+  - contact.md
+
+# Plugins
+plugins:
+  - jekyll-feed
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - .git/
+  - .github/ 

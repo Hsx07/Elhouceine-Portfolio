@@ -1,0 +1,26 @@
+{
+  "name": "elhouceine-portfolio",
+  "version": "1.0.0",
+  "description": "Houceine's Portfolio website built with Jekyll",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hsx07/Elhouceine-Portfolio.git"
+  },
+  "keywords": [
+    "jekyll",
+    "portfolio",
+    "web-design"
+  ],
+  "author": "Houceine",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Hsx07/Elhouceine-Portfolio/issues"
+  },
+  "homepage": "https://github.com/Hsx07/Elhouceine-Portfolio#readme",
+  "devDependencies": {},
+  "dependencies": {}
+} 
